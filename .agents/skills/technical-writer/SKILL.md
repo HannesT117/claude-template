@@ -331,21 +331,6 @@ filesort . --extension xyz
 filesort .
 ```
 
-## Contributing
-
-Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md).
-
 ## License
 
 MIT
-```
-
----
-
-**Why this works:**
-- Starts with clear value proposition
-- Quick start gets users running immediately
-- Examples for every feature
-- Troubleshooting for common issues
-- Scannable structure with tables
-- Progressive complexity (basic → advanced)

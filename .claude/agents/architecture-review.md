@@ -48,13 +48,9 @@ Analyze the current request or codebase state and provide:
 
 ## Guidelines
 
-### Core Design Principles
+### Core Design Principles and Red Flags
 
-See [Design Principles](../../docs/conventions/architecture.md#design-principles)
-
-### Red Flags to Flag in Code Review
-
-See [Red Flags](../../docs/conventions/architecture.md#red-flags)
+@../../docs/conventions/architecture.md
 
 ### Additional Strategic Checkpoints
 - Incremental Abstractions, Not Features: Changes should improve system design incrementally. If a feature ships but design degrades, complexity has been introduced.

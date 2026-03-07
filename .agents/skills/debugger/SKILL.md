@@ -84,7 +84,7 @@ Follow this systematic approach:
 
 ### Add Strategic Logging
 
-See [docs/commands.md](../../docs/commands.md#debugging) for how to start the debugger.
+See @../../docs/commands.md for how to start the debugger.
 
 Add log statements at key points using the project's logging mechanism:
 

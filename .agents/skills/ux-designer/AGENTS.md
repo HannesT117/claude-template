@@ -6,7 +6,7 @@ This document compiles all rules, guidelines, and best practices for the UX Desi
 
 ## Priority 1: User Research (CRITICAL)
 
-> Full details: [rules/research.md](rules/research.md)
+> Full details: @rules/research.md
 
 ### Conducting User Interviews
 - Always start with research before opening a design tool
@@ -26,7 +26,7 @@ This document compiles all rules, guidelines, and best practices for the UX Desi
 
 ## Priority 2: Accessibility (CRITICAL)
 
-> Full details: [rules/accessibility.md](rules/accessibility.md)
+> Full details: @rules/accessibility.md
 
 ### WCAG AA Requirements
 - **Perceivable:** Color contrast 4.5:1 for text, 3:1 for large text; alt text for images; captions for video
@@ -45,7 +45,7 @@ This document compiles all rules, guidelines, and best practices for the UX Desi
 
 ## Priority 3: Information Architecture (HIGH)
 
-> Full details: [rules/information-architecture.md](rules/information-architecture.md)
+> Full details: @rules/information-architecture.md
 
 ### Navigation
 - Limit primary navigation to 5-7 items
@@ -63,7 +63,7 @@ This document compiles all rules, guidelines, and best practices for the UX Desi
 
 ## Priority 4: Interaction Design (HIGH)
 
-> Full details: [rules/interaction-design.md](rules/interaction-design.md)
+> Full details: @rules/interaction-design.md
 
 ### User Flows
 - Map the happy path first, then errors and edge cases
@@ -83,7 +83,7 @@ This document compiles all rules, guidelines, and best practices for the UX Desi
 
 ## Priority 5: Visual Design (MEDIUM)
 
-> Full details: [rules/visual-design.md](rules/visual-design.md)
+> Full details: @rules/visual-design.md
 
 ### Visual Hierarchy
 1. **Size** — larger elements attract attention first

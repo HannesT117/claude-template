@@ -16,7 +16,7 @@
 
 ## Commands Reference
 
-See [docs/commands.md](../docs/commands.md)
+See @../docs/commands.md
 
 ## Self-Improvement
 
@@ -48,4 +48,4 @@ After every correction or mistake, update this CLAUDE.md with a rule to prevent 
 
 ## Favoured patterns
 
-See [docs/conventions/patterns.md](../docs/conventions/patterns.md)
+See @../docs/conventions/patterns.md
