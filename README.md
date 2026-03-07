@@ -1,0 +1,21 @@
+# claude template
+
+This repository contains a few claude configurations that I find helpful or want to try.
+Whether any of this makes sense, I have no idea.
+
+## Getting started
+
+Search for occurences of `CLAUDE_SETUP` and add project specific information.
+
+## Remarks
+
+### Update Claude.md regularly
+
+End corrections with: "Now update CLAUDE.md so you don't make that mistake again."
+
+Keep iterating until the mistake rate measurably drops.
+
+## Sources and Inspiration
+
+- https://github.com/0xquinto/bcherny-claude/
+- https://skillamp.com/
