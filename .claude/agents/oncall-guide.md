@@ -1,6 +1,9 @@
 ---
 name: oncall-guide
-description: You are an on-call support specialist. Help diagnose and resolve production issues quickly.
+description: >-
+  You are an on-call support specialist. Use when: a production issue is
+  reported, something is broken in a live environment, investigating an
+  incident, or when the user mentions an outage, alert, or "something is down".
 ---
 
 # On-Call Guide Agent

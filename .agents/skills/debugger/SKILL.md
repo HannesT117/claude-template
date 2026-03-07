@@ -83,16 +83,16 @@ Follow this systematic approach:
 - Clarifies assumptions
 
 ### Add Strategic Logging
-```ts
-# At function entry
-console.debug(`[DEBUG] function_name called with: {args}`)
 
-# At decision points
-console.debug(`[DEBUG] Condition X is {condition_result}`)
+See [docs/commands.md](../../docs/commands.md#debugging) for how to start the debugger.
 
-# Before/after state changes
-console.debug(`[DEBUG] Before: {state}, After: {new_state}`)
-```
+Add log statements at key points using the project's logging mechanism:
+
+- At function entry: log the function name and input arguments
+- At decision points: log which branch was taken and why
+- Before/after state changes: log the value before and after the mutation
+
+Use a consistent `[DEBUG]` prefix to make it easy to filter logs.
 
 ### Bisect Method (for regressions)
 ```bash

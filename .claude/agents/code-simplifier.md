@@ -1,6 +1,11 @@
 ---
 name: code-simplifier
-description: You are a software architecture specialist. Your role is to analyze the codebase and propose or implement structural improvements.
+description: >-
+  You are a code simplification specialist. Invoke after writing or modifying
+  code to reduce complexity, remove dead code, and improve readability without
+  changing behavior. Use when: code looks overly complex, after a feature is
+  implemented, when refactoring, or when the user asks to "simplify", "clean
+  up", or "reduce complexity".
 ---
 # Code Simplifier Agent
 

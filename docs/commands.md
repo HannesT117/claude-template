@@ -34,3 +34,10 @@ echo "CLAUDE_SETUP not finished"
 ```sh
 echo "CLAUDE_SETUP not finished"
 ```
+
+## Debugging
+
+```sh
+# Start debugger / inspect process
+echo "CLAUDE_SETUP not finished"
+```
