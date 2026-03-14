@@ -1,7 +1,8 @@
 # claude template
 
 This repository contains a few claude configurations that I find helpful or want to try.
-Whether any of this makes sense, I have no idea.
+
+My local setup and decision flow for when to use which model is described in the [docs](docs/local-setup.md).
 
 ## Getting started
 
