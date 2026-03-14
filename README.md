@@ -5,9 +5,11 @@ Whether any of this makes sense, I have no idea.
 
 ## Getting started
 
-Create a new repository with this template: `gh repo create <my-project> -p HannesT117/claude-template -l MIT --public -c`
+1. Create a new repository with this template: `gh repo create <my-project> -p HannesT117/claude-template -l MIT --public -c`
 
-Search for occurences of `CLAUDE_SETUP` and add project specific information.
+2. Search for occurences of `CLAUDE_SETUP` and add project specific information.
+
+3. Check the plugins in [.claude/settings.json](.claude/settings.json) for unnecessary plugins and remove them.
 
 ## Remarks
 
