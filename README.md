@@ -19,5 +19,7 @@ Keep iterating until the mistake rate measurably drops.
 
 ## Sources and Inspiration
 
-- https://github.com/0xquinto/bcherny-claude/
-- https://skillamp.com/
+- [Boris Cherny's Claude Config](https://github.com/0xquinto/bcherny-claude/)
+- [SkillsMP, Marketplace for AI agent skills](https://skillsmp.com/)
+- [Which Agent, helper to figure out which tool to use](https://hannest117.github.io/which-agent/)
+- [llmfit, find the best llm for your machine](https://github.com/AlexsJones/llmfit)
