@@ -6,7 +6,7 @@ My local setup and decision flow for when to use which model is described in the
 
 ## Getting started
 
-1. Create a new repository with this template: `gh repo create <my-project> -p HannesT117/claude-template -l MIT --public -c`
+1. Create a new repository with this template: `gh repo create <my-project> -p HannesT117/claude-template --public`
 
 2. Search for occurences of `CLAUDE_SETUP` and add project specific information.
 
